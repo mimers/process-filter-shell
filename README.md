@@ -1,3 +1,4 @@
 process-filter-shell
 ====================
-# logcatPkgFilter.sh <PackageName>
+``` logcatPkgFilter.sh <PackageName>
+```
