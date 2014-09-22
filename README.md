@@ -1,4 +1,5 @@
 process-filter-shell
 ====================
-```logcatPkgFilter.sh <PackageName>
-
+```
+ogcatPkgFilter.sh <your package name>
+```
